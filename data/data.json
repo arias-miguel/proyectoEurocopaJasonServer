@@ -1,0 +1,228 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Carlos Andres",
+      "apellido": "Nava",
+      "correo": "carlos2@gmail.com",
+      "id": 6
+    }
+  ],
+  "barcelona": [
+    {
+      "id": 1,
+      "nombre": "barcelona",
+      "pais": "alemania",
+      "años": 29,
+      "banderaPais": "https://www.fichajes.com/images/flags/deu.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/marc-andre-ter-stegen.jpg",
+      "posicion":"portero"
+    },
+    {
+      "id": 13,
+      "nombre": "Neto",
+      "pais": "Brasil",
+      "años": 32,
+      "banderaPais": "https://www.fichajes.com/images/flags/bra.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/neto.jpg",
+      "posicion":"portero"
+    },
+    {
+      "id": 2,
+      "nombre": "Sergiño Dest",
+      "pais": "Estado Unidos",
+      "años": 21,
+      "banderaPais": "https://www.fichajes.com/images/flags/usa.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/sergino-dest.jpg",
+      "posicion":"defensa"
+    },
+    {
+      "id": 3,
+      "nombre": "Gerard Piqué",
+      "pais": "España",
+      "años": 35,
+      "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/gerard-pique.jpg",
+      "posicion":"defensa"
+    },
+    {"id": 8,
+      "nombre": "Dani Alves",
+      "pais": "Brasil",
+      "años": 38,
+      "banderaPais": "https://www.fichajes.com/images/flags/bra.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/dani-alves.jpg",
+      "posicion":"defensa"
+    },
+    {"id": 18,
+      "nombre": "Jordi Alba",
+      "pais": "España",
+      "años": 33,
+      "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/jordi-alba.jpg",
+      "posicion":"defensa"
+    },
+    {
+      "id": 23,
+      "nombre": "Samuel Umtiti",
+      "pais": "Francia",
+      "años": 28,
+      "banderaPais": "https://www.fichajes.com/images/flags/fra.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/samuel-umtiti.jpg",
+      "posicion":"defensa"
+    },
+    {
+      "id": 5,
+      "nombre": "Sergio Busquets",
+      "pais": "España",
+      "años": 33,
+      "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/sergio-busquets.jpg",
+      "posicion":"centro campista"
+    },
+    {
+      "id": 30,
+      "nombre": "Gavi",
+      "pais": "España",
+      "años": 17,
+      "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/gavi-1.png",
+      "posicion":"centro campista"
+    },
+    {
+      "id": 14,
+      "nombre": "Nico",
+      "pais": "España",
+      "años": 20,
+      "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/p465694-t178-2021-1-001-000.png",
+      "posicion":"centro campista"
+    },
+    {
+      "id": 21,
+      "nombre": "Frenkie de Jong",
+      "pais": "Paises Bajos",
+      "años": 24,
+      "banderaPais": "https://www.fichajes.com/images/flags/nld.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/frenkie-de-jong.jpg",
+      "posicion":"centro campista"
+    },
+    {
+      "id": 7,
+      "nombre": "Ousmane Dembélé",
+      "pais": "Francia",
+      "años": 24,
+      "banderaPais": "https://www.fichajes.com/images/flags/fra.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/ousmane-dembele.jpg",
+      "posicion":"delantero"
+    },
+    {
+      "id": 9,
+      "nombre": "Memphis Depay",
+      "pais": "Paises Bajos",
+      "años": 28,
+      "banderaPais": "https://www.fichajes.com/images/flags/nld.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/memphis-depay.jpg",
+      "posicion":"delantero"
+    },
+    {
+      "id": 10,
+      "nombre": "Ansu Fati",
+      "pais": "España",
+      "años": 19,
+      "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/anssumane-fati.jpg",
+      "posicion":"delantero"
+    },
+    {
+      "id": 11,
+      "nombre": "Adama Traoré",
+      "pais": "España",
+      "años": 26,
+      "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/adama-traore-1.png",
+      "posicion":"delantero"
+    },
+    {
+      "id": 12,
+      "nombre": "Martin Braithwaite",
+      "pais": "Suiza",
+      "años": 30,
+      "banderaPais": "https://www.fichajes.com/images/flags/dnk.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/martin-braithwaite.jpg",
+      "posicion":"delantero"
+    }
+  ],
+  "liverpool": [
+    {
+      "id": 1,
+      "nombre": "Alisson Becker",
+      "pais": "Brasil",
+      "años": 29,
+      "banderaPais": "https://www.fichajes.com/images/flags/bra.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/alisson-becker.jpg",
+      "posicion":"portero"
+    },
+    {
+      "id": 13,
+      "nombre": "Adrián",
+      "pais": "España",
+      "años": 35,
+      "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/adrian-adrian.jpg",
+      "posicion":"portero"
+    },
+    {
+      "id": 2,
+      "nombre": "Sergiño Dest",
+      "pais": "Estado Unidos",
+      "años": 21,
+      "banderaPais": "https://www.fichajes.com/images/flags/usa.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/sergino-dest.jpg",
+      "posicion":"portero"
+    },
+    {
+      "id": 22,
+      "nombre": "Loris Karius",
+      "pais": "España",
+      "años": 28,
+      "banderaPais": "https://www.fichajes.com/images/flags/deu.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/loris-karius.jpg",
+      "posicion":"portero"
+    },
+    {
+      "id": 5,
+      "nombre": "Ibrahima Konaté",
+      "pais": "Francia",
+      "años": 22,
+      "banderaPais": "https://www.fichajes.com/images/flags/fra.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/ibrahima-konate.jpg",
+      "posicion":"defensa"
+    },
+    {
+      "id": 7 ,
+      "nombre": "James Milner",
+      "pais": "Inglatera",
+      "años": 36,
+      "banderaPais": "https://www.fichajes.com/images/flags/eng.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/james-milner.jpg",
+      "posicion":"defensa"
+    },
+    {
+      "id": 12 ,
+      "nombre": "Joe Gomez",
+      "pais": "Inglatera",
+      "años": 24,
+      "banderaPais": "https://www.fichajes.com/images/flags/eng.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/joe-gomez.jpg",
+      "posicion":"defensa"
+    },
+    {
+      "id": 66 ,
+      "nombre": "Trent Alexander-Arnold",
+      "pais": "Inglatera",
+      "años": 23,
+      "banderaPais": "https://www.fichajes.com/images/flags/eng.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/trent-alexander-arnold.jpg",
+      "posicion":"defensa"
+    }
+  ]
+}
