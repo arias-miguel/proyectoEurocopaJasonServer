@@ -15,16 +15,16 @@
       "años": 29,
       "banderaPais": "https://www.fichajes.com/images/flags/deu.svg",
       "imagen": "https://www.fcbarcelona.com/photo-resources/2021/11/09/e00e0d35-ca10-412d-a505-ebec04a12d82/mini_1200x750-ter_stegen.png?width=470&height=470",
-      "posicion":"portero"
+      "posicion": "portero"
     },
     {
       "id": 13,
       "nombre": "Neto",
       "pais": "Brasil",
       "años": 32,
-      "banderaPais": "https://www.fcbarcelona.com/photo-resources/2021/08/17/aae47baa-57b5-4912-b236-26380ede4f63/mini_1200x750-neto.png?width=470&height=470",
-      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/neto.jpg",
-      "posicion":"portero"
+      "banderaPais": "https://www.fichajes.com/images/flags/bra.svg",
+      "imagen": "https://www.fcbarcelona.com/photo-resources/2021/08/17/aae47baa-57b5-4912-b236-26380ede4f63/mini_1200x750-neto.png?width=470&height=470",
+      "posicion": "portero"
     },
     {
       "id": 2,
@@ -33,7 +33,7 @@
       "años": 21,
       "banderaPais": "https://www.fichajes.com/images/flags/usa.svg",
       "imagen": "https://www.fcbarcelona.com/photo-resources/2021/08/17/d8dd9886-d88b-49f5-9a12-1e3be2cbe831/mini_1200x750-dest.png?width=470&height=470",
-      "posicion":"defensa"
+      "posicion": "defensa"
     },
     {
       "id": 3,
@@ -42,23 +42,25 @@
       "años": 35,
       "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
       "imagen": "https://www.fcbarcelona.com/photo-resources/2022/01/25/fbe57328-cb20-4984-a26d-4104fa332b7b/mini_1200x750-03-PIQUE.png?width=470&height=470",
-      "posicion":"defensa"
+      "posicion": "defensa"
     },
-    {"id": 8,
+    {
+      "id": 8,
       "nombre": "Dani Alves",
       "pais": "Brasil",
       "años": 38,
       "banderaPais": "https://www.fichajes.com/images/flags/bra.svg",
       "imagen": "https://www.fcbarcelona.com/photo-resources/2021/11/18/c27bb106-73ed-4447-a0d4-39057099a941/1200x750-dani_alves.png?width=470&height=470",
-      "posicion":"defensa"
+      "posicion": "defensa"
     },
-    {"id": 18,
+    {
+      "id": 18,
       "nombre": "Jordi Alba",
       "pais": "España",
       "años": 33,
       "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
       "imagen": "https://www.fcbarcelona.com/photo-resources/2022/01/25/d3056245-7473-45ce-90e5-479a690a0679/mini_1200x750-jordi_alba.png?width=470&height=470",
-      "posicion":"defensa"
+      "posicion": "defensa"
     },
     {
       "id": 23,
@@ -67,7 +69,7 @@
       "años": 28,
       "banderaPais": "https://www.fichajes.com/images/flags/fra.svg",
       "imagen": "https://www.fcbarcelona.com/photo-resources/2021/08/17/84ca6745-a237-4e8e-a987-f8a66941bdd5/mini_1200x750-umtiti.png?width=470&height=470",
-      "posicion":"defensa"
+      "posicion": "defensa"
     },
     {
       "id": 5,
@@ -76,7 +78,7 @@
       "años": 33,
       "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
       "imagen": "https://www.fcbarcelona.com/photo-resources/2022/01/25/600fcf7a-0170-466f-a83c-4d307d1ee342/mini_1200x750-sergio.png?width=470&height=470",
-      "posicion":"centro campista"
+      "posicion": "centro campista"
     },
     {
       "id": 30,
@@ -85,7 +87,7 @@
       "años": 17,
       "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
       "imagen": "https://images.ecestaticos.com/nyHGpZP-yLNIitBQESmJmJZMcpQ=/0x0:1592x1082/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F006%2F58f%2F9d5%2F00658f9d56afed09a95f0de3f673b661.jpg",
-      "posicion":"centro campista"
+      "posicion": "centro campista"
     },
     {
       "id": 14,
@@ -94,7 +96,7 @@
       "años": 20,
       "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
       "imagen": "https://www.fcbarcelona.com/photo-resources/2022/01/25/ed92de33-91dc-439e-a605-07f5f964fb80/1200x750-NICO.png?width=470&height=470",
-      "posicion":"centro campista"
+      "posicion": "centro campista"
     },
     {
       "id": 21,
@@ -103,7 +105,7 @@
       "años": 24,
       "banderaPais": "https://www.fichajes.com/images/flags/nld.svg",
       "imagen": "https://www.fcbarcelona.com/photo-resources/2021/08/17/0b5fa79f-3bd1-47b7-a204-d9f74d2f8bc6/mini_1200x750-DE_JONG.png?width=470&height=470",
-      "posicion":"centro campista"
+      "posicion": "centro campista"
     },
     {
       "id": 7,
@@ -112,7 +114,7 @@
       "años": 24,
       "banderaPais": "https://www.fichajes.com/images/flags/fra.svg",
       "imagen": "https://www.fcbarcelona.com/photo-resources/2021/08/17/64509169-5858-4b44-9963-d1911fb0357d/mini_1200x750-dembele.png?width=470&height=470",
-      "posicion":"delantero"
+      "posicion": "delantero"
     },
     {
       "id": 9,
@@ -121,7 +123,7 @@
       "años": 28,
       "banderaPais": "https://www.fichajes.com/images/flags/nld.svg",
       "imagen": "https://www.fcbarcelona.com/photo-resources/2021/08/17/511f37c7-c98f-4467-8ccc-1c96bef0f65a/mini_1200x750-depay.png?width=470&height=470",
-      "posicion":"delantero"
+      "posicion": "delantero"
     },
     {
       "id": 10,
@@ -130,7 +132,7 @@
       "años": 19,
       "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
       "imagen": "https://www.fcbarcelona.com/photo-resources/2022/01/25/693139a7-7eaf-4948-a5b4-6ef1c02a95d3/mini_1200x750-ansu.png?width=470&height=470",
-      "posicion":"delantero"
+      "posicion": "delantero"
     },
     {
       "id": 11,
@@ -139,7 +141,7 @@
       "años": 26,
       "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
       "imagen": "https://www.fcbarcelona.com/photo-resources/2022/03/02/bab37837-1ce9-4986-aacb-4efec2bcbed8/mini_1200x750-11-ADAMA.jpg?width=470&height=470",
-      "posicion":"delantero"
+      "posicion": "delantero"
     },
     {
       "id": 12,
@@ -148,7 +150,7 @@
       "años": 30,
       "banderaPais": "https://www.fichajes.com/images/flags/dnk.svg",
       "imagen": "https://www.fcbarcelona.com/photo-resources/2021/08/17/08ef0f53-53dc-40ec-924a-162651f1bab9/mini_1200x750-braithwaite.png?width=470&height=470",
-      "posicion":"delantero"
+      "posicion": "delantero"
     }
   ],
   "liverpool": [
@@ -159,7 +161,7 @@
       "años": 29,
       "banderaPais": "https://www.fichajes.com/images/flags/bra.svg",
       "imagen": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcR0Kjvqu2sDq4q3ZpClxStbwyTebK93usGYWGUDj3tm8UGei2rP7aFJbZbg9-zk",
-      "posicion":"portero"
+      "posicion": "portero"
     },
     {
       "id": 13,
@@ -168,7 +170,7 @@
       "años": 35,
       "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
       "imagen": "https://as01.epimg.net/futbol/imagenes/2019/08/16/internacional/1565951911_883546_1565952135_noticia_normal.jpg",
-      "posicion":"portero"
+      "posicion": "portero"
     },
     {
       "id": 11,
@@ -177,7 +179,7 @@
       "años": 29,
       "banderaPais": "https://www.fichajes.com/images/flags/egy.svg",
       "imagen": "https://mejorconsalud.as.com/wp-content/uploads/2022/02/mohamed-salah-640x800.jpg",
-      "posicion":"delantero"
+      "posicion": "delantero"
     },
     {
       "id": 22,
@@ -186,7 +188,7 @@
       "años": 28,
       "banderaPais": "https://www.fichajes.com/images/flags/deu.svg",
       "imagen": "https://elcomercio.pe/resizer/bZ5DUfEybMLGgD7dX0-SdRRA3sE=/980x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/CO7L7NZXT5CP3JUTNYHKI6LZOY.jpg",
-      "posicion":"portero"
+      "posicion": "portero"
     },
     {
       "id": 5,
@@ -195,115 +197,142 @@
       "años": 22,
       "banderaPais": "https://www.fichajes.com/images/flags/fra.svg",
       "imagen": "https://cdn-media.theathletic.com/uB586XJLZsXW_hah14G6C3pe0_1440x960.jpg",
-      "posicion":"defensa"
+      "posicion": "defensa"
     },
     {
-      "id": 7 ,
+      "id": 7,
       "nombre": "James Milner",
       "pais": "Inglatera",
       "años": 36,
       "banderaPais": "https://www.fichajes.com/images/flags/eng.svg",
       "imagen": "https://as01.epimg.net/futbol/imagenes/2019/10/29/internacional/1572347237_695251_1572347352_miniatura_normal.jpg",
-      "posicion":"defensa"
+      "posicion": "defensa"
     },
     {
-      "id": 12 ,
+      "id": 12,
       "nombre": "Joe Gomez",
       "pais": "Inglatera",
       "años": 24,
       "banderaPais": "https://www.fichajes.com/images/flags/eng.svg",
       "imagen": "https://www.thesun.co.uk/wp-content/uploads/2022/03/NINTCHDBPICT000715910712.jpg",
-      "posicion":"defensa"
+      "posicion": "defensa"
     },
     {
-      "id": 66 ,
+      "id": 66,
       "nombre": "Trent Alexander-Arnold",
       "pais": "Inglatera",
       "años": 23,
       "banderaPais": "https://www.fichajes.com/images/flags/eng.svg",
       "imagen": "https://www.lavanguardia.com/files/image_948_465/uploads/2019/12/27/5fa5343d217b1.jpeg",
-      "posicion":"defensa"
+      "posicion": "defensa"
     },
     {
-      "id": 3 ,
+      "id": 3,
       "nombre": "Fabinho",
       "pais": "Brasil",
       "años": 28,
       "banderaPais": "https://www.fichajes.com/images/flags/bra.svg",
       "imagen": "https://futbolenlinea.club/wp-content/uploads/2021/10/Noticias-del-Liverpool-es-poco-probable-que-Fabinho-y-Alisson.jpg",
-      "posicion":"centro campista"
+      "posicion": "centro campista"
     },
     {
-      "id": 6 ,
+      "id": 6,
       "nombre": "Thiago Alcántara",
       "pais": "España",
       "años": 30,
       "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
       "imagen": "https://peru21.pe/resizer/ZJPvXDto7qDytHNwmWN4RJ5Oppk=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/HMFWTGSXNVHRXAK5TH4ACTEKRE.jfif",
-      "posicion":"centro campista"
+      "posicion": "centro campista"
     },
     {
-      "id": 12 ,
+      "id": 12,
       "nombre": "Elijah Dixon-Bonner",
       "pais": "Inglatera",
       "años": 21,
       "banderaPais": "https://www.fichajes.com/images/flags/eng.svg",
       "imagen": "https://pbs.twimg.com/media/Eh0FH5PXYAExJ1R.jpg",
-      "posicion":"centro campista"
+      "posicion": "centro campista"
     },
     {
-      "id": 14 ,
+      "id": 14,
       "nombre": "Jordan Henderson",
       "pais": "Inglatera",
       "años": 31,
       "banderaPais": "https://www.fichajes.com/images/flags/eng.svg",
       "imagen": "https://www.el-carabobeno.com/wp-content/uploads/2020/07/Jordan-Henderson.jpg",
-      "posicion":"centro campista"
+      "posicion": "centro campista"
     },
     {
-      "id": 15 ,
+      "id": 15,
       "nombre": "Alex Oxlade-Chamberlain",
       "pais": "Inglatera",
       "años": 28,
       "banderaPais": "https://www.fichajes.com/images/flags/eng.svg",
       "imagen": "https://e1.365dm.com/20/03/1600x900/skysports-alex-oxlade-chamberlain_4950744.jpg",
-      "posicion":"centro campista"
+      "posicion": "centro campista"
     },
     {
-      "id": 9 ,
+      "id": 9,
       "nombre": "Roberto Firmino",
       "pais": "Brasil",
       "años": 30,
       "banderaPais": "https://www.fichajes.com/images/flags/bra.svg",
       "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/04/17/14609072189276.jpg",
-      "posicion":"delantero"
+      "posicion": "delantero"
     },
     {
-      "id": 18 ,
+      "id": 18,
       "nombre": "Takumi Minamino",
       "pais": "Japon",
       "años": 27,
       "banderaPais": "https://www.fichajes.com/images/flags/jpn.svg",
       "imagen": "https://www.ceroacero.es/img/geral/878142_med_.jpg.jpg",
-      "posicion":"delantero"
+      "posicion": "delantero"
     },
     {
-      "id": 20 ,
+      "id": 20,
       "nombre": "Diogo Jota",
       "pais": "Portugal",
       "años": 25,
       "banderaPais": "https://www.fichajes.com/images/flags/prt.svg",
       "imagen": "https://images.mediotiempo.com/n9D5jWEMKnE8U1qAJC3WgwvZD7A=/958x596/uploads/media/2021/11/28/jota-convertido-jugador-importante-conjunto.jpg",
-      "posicion":"delantero"
+      "posicion": "delantero"
     },
     {
-      "id": 23 ,
+      "id": 23,
       "nombre": "Luis Díaz",
       "pais": "Colombia",
       "años": 25,
       "banderaPais": "https://www.fichajes.com/images/flags/col.svg",
       "imagen": "https://files.antena2.com/antena2/public/styles/imagen_despliegue/public/2022-03/Luis%20Di%CC%81az%20titular%20con%20el%20Liverpool%20ante%20West%20Ham.jpg?VersionId=45OuB_EFGK1uDQWDGTK.2laIWpU8m.yR&h=a9ae5a94&itok=iPNFTvyP",
-      "posicion":"delantero"
+      "posicion": "delantero"
+    },
+    {
+      "id": "34",
+      "nombre": "danilo",
+      "pais": "colombia",
+      "años": "34",
+      "banderaPais": "https://www.fichajes.com/images/flags/col.svg",
+      "imagen": "https://avatars.githubusercontent.com/u/85469419?v=4",
+      "posicion": "portero"
+    },
+    {
+      "id": "45",
+      "nombre": "miguel",
+      "pais": "colombia",
+      "años": "34",
+      "banderaPais": "https://www.fichajes.com/images/flags/col.svg",
+      "imagen": "https://avatars.githubusercontent.com/u/85469419?v=4",
+      "posicion": "centro campista"
+    },
+    {
+      "id": "55",
+      "nombre": "danilo",
+      "pais": "colombia",
+      "años": "33",
+      "banderaPais": "https://www.fichajes.com/images/flags/col.svg",
+      "imagen": "https://avatars.githubusercontent.com/u/75763117?v=4",
+      "posicion": "delantero"
     }
   ]
 }
