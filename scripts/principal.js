@@ -1,41 +1,37 @@
-let btnMarvel = document.getElementById("btnCategory1")
-let btnDC = document.getElementById("btnCategory2")
-let listarCard = document.getElementById("listarCard")
+alert("esta conectada")
+let btnCategory1 = document.getElementById("btnCategory1")
+let btnCategory2 = document.getElementById("btnCategory2")
 
-btnMarvel.addEventListener('click', ()=>{
-    getUrl('http://localhost:4080/marvel')
-})
 
-btnDC.addEventListener('click', ()=>{
-    getUrl('http://localhost:4080/dc')
-})
+ async function printData  (url){
 
-const getUrl = async(url)=>{
-    const  resp = await fetch(url)
-    const data = await resp.json()
-    console.table(data)
+    let container = document.getElementById("listarCard")
+    let  datos = await fetch (url)
+    let datosJ = await datos.json()
+    console.log (datosJ)
 
-    listarCard.innerHTML = ''
+    container.innerHTML= " "
 
-    data.forEach(heroe =>{
-        const {nombre, imagen, historia}=heroe
-
-        listarCard.innerHTML +=`
+    datosJ.forEach(element => {
+        container.innerHTML +=`
         <div class="card" style="width: 18rem;">
-        <img src=${imagen} class="card-img-top" alt="...">
-        <div class="card-body">
-            <h1>${nombre}</h1>
-          <p class="card-text">${historia}</p>
-        </div>
-      </div>
+  <img src="${element.imagen}" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">${element.nombre}</h5>
+    <p class="card-text">El jugador tiene la posicion de ${element.posicion}, su pais de origen es ${element.pais} y tiene ${element.años} años</p>
+    <img src="${element.banderaPais}" width="50px" heigth="50px">
+  </div>
+</div>
         `
-
-
-
-    })
-
-
+        
+    });    
 }
+btnCategory1.addEventListener("click", ()=>{
+    printData("http://localhost:4000/barcelona")
+})
 
+btnCategory2.addEventListener("click",()=>{
+    printData("http://localhost:4000/liverpool")
+})
 
 
