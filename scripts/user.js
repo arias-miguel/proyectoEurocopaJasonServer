@@ -57,7 +57,7 @@ btnCorreo.addEventListener("click", async () =>{
 
 //-------------Editar---------------/
 btnEditar.addEventListener('click', async ()=>{
-    let nameM = document.getElementById('name').value;
+    let name = document.getElementById('name').value;
     let lastNameM = document.getElementById('lastName').value;
     let emailM = document.getElementById('email').value
     let idM= document.getElementById('id').value
@@ -66,7 +66,7 @@ btnEditar.addEventListener('click', async ()=>{
     let resp = await fetch(url+idM, {
         method: 'PUT',
         body: JSON.stringify({
-            nombre: nameM,
+            nombre: name,
             apellido:lastNameM,
             correo: emailM,
             id: idM
