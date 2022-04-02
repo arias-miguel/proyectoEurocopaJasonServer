@@ -10,7 +10,7 @@
   "barcelona": [
     {
       "id": 1,
-      "nombre": "barcelona",
+      "nombre": "Ter Stegen",
       "pais": "alemania",
       "años": 29,
       "banderaPais": "https://www.fichajes.com/images/flags/deu.svg",
@@ -223,6 +223,87 @@
       "banderaPais": "https://www.fichajes.com/images/flags/eng.svg",
       "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/trent-alexander-arnold.jpg",
       "posicion":"defensa"
+    },
+    {
+      "id": 3 ,
+      "nombre": "Fabinho",
+      "pais": "Brasil",
+      "años": 28,
+      "banderaPais": "https://www.fichajes.com/images/flags/bra.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/fabinho.jpg",
+      "posicion":"centro campista"
+    },
+    {
+      "id": 6 ,
+      "nombre": "Thiago Alcántara",
+      "pais": "España",
+      "años": 30,
+      "banderaPais": "https://www.fichajes.com/images/flags/esp.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/thiago.jpg",
+      "posicion":"centro campista"
+    },
+    {
+      "id": 12 ,
+      "nombre": "Elijah Dixon-Bonner",
+      "pais": "Inglatera",
+      "años": 21,
+      "banderaPais": "https://www.fichajes.com/images/flags/eng.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/elijah-dixon-bonner.jpg",
+      "posicion":"centro campista"
+    },
+    {
+      "id": 14 ,
+      "nombre": "Jordan Henderson",
+      "pais": "Inglatera",
+      "años": 31,
+      "banderaPais": "https://www.fichajes.com/images/flags/eng.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/jordan-henderson.jpg",
+      "posicion":"centro campista"
+    },
+    {
+      "id": 15 ,
+      "nombre": "Alex Oxlade-Chamberlain",
+      "pais": "Inglatera",
+      "años": 28,
+      "banderaPais": "https://www.fichajes.com/images/flags/eng.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/alex-oxlade-chamberlain.jpg",
+      "posicion":"centro campista"
+    },
+    {
+      "id": 9 ,
+      "nombre": "Roberto Firmino",
+      "pais": "Brasil",
+      "años": 30,
+      "banderaPais": "https://www.fichajes.com/images/flags/bra.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/roberto-firmino.jpg",
+      "posicion":"delantero"
+    },
+    {
+      "id": 18 ,
+      "nombre": "Takumi Minamino",
+      "pais": "Japon",
+      "años": 27,
+      "banderaPais": "https://www.fichajes.com/images/flags/jpn.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/takumi-minamino.png",
+      "posicion":"delantero"
+    },
+    {
+      "id": 20 ,
+      "nombre": "Diogo Jota",
+      "pais": "Portugal",
+      "años": 25,
+      "banderaPais": "https://www.fichajes.com/images/flags/prt.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/diogo-jota.jpg",
+      "posicion":"delantero"
+    },
+    {
+      "id": 23 ,
+      "nombre": "Luis Díaz",
+      "pais": "Colombia",
+      "años": 25,
+      "banderaPais": "https://www.fichajes.com/images/flags/col.svg",
+      "imagen": "https://assets-es.imgfoot.com/media/cache/60x60/person/luis-diaz.jpg",
+      "posicion":"delantero"
     }
   ]
 }
