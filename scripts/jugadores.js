@@ -174,7 +174,7 @@ if(equipo=="barcelona"){
       posicion:posicion,
       id:camiseta,
       banderaPais:bandera,
-      imagen:imgjugador
+      imagen:imgjugador 
     }),
     headers: {
       "Content-Type": "application/json; charset=utf-8",
