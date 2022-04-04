@@ -18,13 +18,13 @@
       "posicion": "portero"
     },
     {
-      "id": 13,
       "nombre": "Neto",
       "pais": "Brasil",
-      "años": 32,
+      "años": "32",
+      "posicion": "defensa",
+      "id": 13,
       "banderaPais": "https://www.fichajes.com/images/flags/bra.svg",
-      "imagen": "https://www.fcbarcelona.com/photo-resources/2021/08/17/aae47baa-57b5-4912-b236-26380ede4f63/mini_1200x750-neto.png?width=470&height=470",
-      "posicion": "portero"
+      "imagen": "https://www.fcbarcelona.com/photo-resources/2021/08/17/aae47baa-57b5-4912-b236-26380ede4f63/mini_1200x750-neto.png?width=470&height=470"
     },
     {
       "id": 2,
@@ -305,33 +305,6 @@
       "años": 25,
       "banderaPais": "https://www.fichajes.com/images/flags/col.svg",
       "imagen": "https://files.antena2.com/antena2/public/styles/imagen_despliegue/public/2022-03/Luis%20Di%CC%81az%20titular%20con%20el%20Liverpool%20ante%20West%20Ham.jpg?VersionId=45OuB_EFGK1uDQWDGTK.2laIWpU8m.yR&h=a9ae5a94&itok=iPNFTvyP",
-      "posicion": "delantero"
-    },
-    {
-      "id": "34",
-      "nombre": "danilo",
-      "pais": "colombia",
-      "años": "34",
-      "banderaPais": "https://www.fichajes.com/images/flags/col.svg",
-      "imagen": "https://avatars.githubusercontent.com/u/85469419?v=4",
-      "posicion": "portero"
-    },
-    {
-      "id": "45",
-      "nombre": "miguel",
-      "pais": "colombia",
-      "años": "34",
-      "banderaPais": "https://www.fichajes.com/images/flags/col.svg",
-      "imagen": "https://avatars.githubusercontent.com/u/85469419?v=4",
-      "posicion": "centro campista"
-    },
-    {
-      "id": "55",
-      "nombre": "danilo",
-      "pais": "colombia",
-      "años": "33",
-      "banderaPais": "https://www.fichajes.com/images/flags/col.svg",
-      "imagen": "https://avatars.githubusercontent.com/u/75763117?v=4",
       "posicion": "delantero"
     }
   ]
