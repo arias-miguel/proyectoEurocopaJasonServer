@@ -117,13 +117,13 @@
       "posicion": "delantero"
     },
     {
+      "nombre": "Roberto Firmino",
+      "pais": "Brasil",
+      "años": "45",
+      "posicion": "delantero",
       "id": 9,
-      "nombre": "Memphis Depay",
-      "pais": "Paises Bajos",
-      "años": 28,
-      "banderaPais": "https://www.fichajes.com/images/flags/nld.svg",
-      "imagen": "https://www.fcbarcelona.com/photo-resources/2021/08/17/511f37c7-c98f-4467-8ccc-1c96bef0f65a/mini_1200x750-depay.png?width=470&height=470",
-      "posicion": "delantero"
+      "banderaPais": "https://www.fichajes.com/images/flags/bra.svg",
+      "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/04/17/14609072189276.jpg"
     },
     {
       "id": 10,
@@ -272,13 +272,13 @@
       "posicion": "centro campista"
     },
     {
-      "id": 9,
       "nombre": "Roberto Firmino",
       "pais": "Brasil",
-      "años": 30,
+      "años": "33",
+      "posicion": "defensa",
+      "id": 9,
       "banderaPais": "https://www.fichajes.com/images/flags/bra.svg",
-      "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/04/17/14609072189276.jpg",
-      "posicion": "delantero"
+      "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/04/17/14609072189276.jpg"
     },
     {
       "id": 18,
